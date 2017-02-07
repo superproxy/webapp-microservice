@@ -1,0 +1,15 @@
+/act-front/act-front-controller/*.iml
+/act-front/act-front-modules/act-front-module-airlion/act-front-module-airlion-controller/*.iml
+/act-front/act-front-modules/act-front-module-airlion/act-front-module-airlion-dao/*.iml
+/act-front/act-front-modules/act-front-module-airlion/act-front-module-airlion-service/*.iml
+/act-front/act-front-modules/act-front-module-airlion/act-front-module-airlion-web/*.iml
+/act-front/act-front-modules/act-front-module-airlion/*.iml
+/act-front/act-front-modules/act-front-module-springred/*.iml
+/act-front/act-front-modules/act-front-module-springred/act-front-module-springred-controller/*.iml
+/act-front/act-front-modules/act-front-module-springred/act-front-module-springred-dao/*.iml
+/act-front/act-front-modules/act-front-module-springred/act-front-module-springred-service/*.iml
+/act-front/act-front-modules/act-front-modules-all/*.iml
+/act-front/act-front-modules/*.iml
+/act-front/act-front-service/*.iml
+/act-front/act-front-web/*.iml
+/act-front/*.iml
